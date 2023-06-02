@@ -22,6 +22,6 @@ You need to know, to access the prediction system you need to authenticate first
   
   
    * Predictions
-  <pre>POST /predictions/cassava</pre>
-  <pre>POST /predictions/rice</pre>
-  <pre>POST /predictions/tomato</pre>
+  <pre>POST /predictions/vegetables</pre>
+  <pre>POST /predictions/fruits</pre>
+  <pre>POST /predictions/plants</pre>
