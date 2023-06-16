@@ -1,4 +1,5 @@
-Installation
+## Installation
+
 1. You must Clone this Project to your Computer
 https://github.com/tengkuFarhan/BangkitCapstone.git
 or you can use Android Studio
